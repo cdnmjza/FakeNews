@@ -1,0 +1,92 @@
+/*
+Main colors used:
+#2A2F33
+#046DD5
+#F4655F
+Section colors:
+#E1493E
+#8ABA56
+#5B4282
+#FF8932
+#19B6E9
+#E84C8B
+Fonts used: Verdana and Georgia.
+
+Most paddings and margins are 1em.
+*/
+
+* {
+    margin: 1em;
+    padding: 1em;
+}
+
+body {
+    font-family: 'Verdana', sans-serif;
+}
+
+body > header {
+    background-color: #046dd5;
+    color: white;
+    padding: 1em;
+}
+header h2 {
+    font-size: 1em;
+}
+
+body > header h1, body > header h2 {
+    margin: 0;
+}
+
+body > header a {
+    color: white;
+    text-decoration: none;
+}
+
+header a {
+    font-size: 0.8em;
+}
+
+body > header #signup a:first-child {
+    padding-left: 0;
+}
+
+body > header #signup a:first-child {
+    border-right: 1px solid white;
+}
+
+body > header #signup a {
+    padding: 0 1em;
+}
+
+body > header a {
+    color: white;
+    text-decoration-color: none;
+}
+
+header a {
+    font-size: 0.8em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
